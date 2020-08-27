@@ -22,25 +22,25 @@ Please follow the instructions provided in the game's User Interface. No extra c
 
 ## Game Development Design
 
-[GDD](https://github.com/sz16900/shooter-game-capstone/blob/dev/deploy/GDD.md)
+[GDD](https://github.com/Samkiroko/capstone-shooter-game/blob/features/GDD.md)
 
 ---
 
 ### Menu
 
-![Menu](https://github.com/sz16900/shooter-game-capstone/blob/dev/deploy/assets/menu.png?raw=true)
+![Menu](https://user-images.githubusercontent.com/43377799/91501094-92f9b700-e8cd-11ea-817e-b4115eeacc82.png)
 
 ### Play
 
-![Play](https://github.com/sz16900/shooter-game-capstone/blob/dev/deploy/assets/play.png?raw=true)
+![Play](https://user-images.githubusercontent.com/43377799/91501166-b886c080-e8cd-11ea-9117-da16d2d536fe.png)
 
 ### Score
 
-![Score](https://github.com/sz16900/shooter-game-capstone/blob/dev/deploy/assets/score.png?raw=true)
+![Score](https://user-images.githubusercontent.com/43377799/91501223-dce29d00-e8cd-11ea-91cd-52f07ebb8373.png)
 
 ### LeaderBoard
 
-![LeaderBoard](https://github.com/sz16900/shooter-game-capstone/blob/dev/deploy/assets/leader.png?raw=true)
+![LeaderBoard](https://user-images.githubusercontent.com/43377799/91501310-069bc400-e8ce-11ea-9b5d-39c5e101fa4c.png)
 
 ---
 
