@@ -1,3 +1,7 @@
+/* eslint-disable  import/no-named-as-default */
+/* eslint-disable  import/no-named-as-default-member */
+/* eslint-disable   import/no-duplicates */
+
 import '../assets/css/main.css';
 
 import Phaser from 'phaser';
