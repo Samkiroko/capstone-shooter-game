@@ -1,5 +1,10 @@
 # [Javascript Project: Shooter-Game]
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 In this project, I made a shooter style video game with the Javascript engine Phaser 3 in order to demonstrate mastery of bundling javascript modules with webpack, async/await function, handling errors, object oriented programming by following an established framework. This project is completed in partial requirements of the Microverse cirriculum.
 
 ---
@@ -156,3 +161,13 @@ Give a ⭐️ if you like this project!
 This project is [MIT](lic.url) licensed.
 
 ---
+
+[contributors-shield]: https://img.shields.io/github/contributors/Samkiroko/capstone-shooter-game.svg?style=flat-square
+[contributors-url]: https://github.com/Samkiroko/capstone-shooter-game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Samkiroko/capstone-shooter-game.svg?style=flat-square
+[forks-url]: https://github.com/Samkiroko/capstone-shooter-game/network/members
+[stars-shield]: https://img.shields.io/github/stars/Samkiroko/capstone-shooter-game.svg?style=flat-square
+[stars-url]: https://github.com/Samkiroko/capstone-shooter-game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Samkiroko/capstone-shooter-game.svg?style=flat-square
+[issues-url]: https://github.com/Samkiroko/capstone-shooter-game
+[product-screenshot]: img/screenshot.PNG
