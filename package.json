@@ -50,14 +50,15 @@
     "stylelint-config-standard": "^20.0.0",
     "stylelint-scss": "^3.17.2",
     "terser-webpack-plugin": "^2.2.1",
-    "webpack": "^4.41.2",
+    "webpack": "^4.44.1",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.9.0",
+    "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "regenerator-runtime": "^0.13.7",
-    "phaser": "^3.20.1"
+    "cli": "^1.0.1",
+    "phaser": "^3.20.1",
+    "regenerator-runtime": "^0.13.7"
   },
   "jest": {
     "setupFiles": [
