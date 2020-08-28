@@ -1,6 +1,3 @@
-/* eslint-disable  import/no-named-as-default */
-/* eslint-disable  import/no-named-as-default-member */
-
 import Entity from './Entities';
 
 class EnemyLaser extends Entity {

@@ -1,6 +1,3 @@
-/* eslint-disable  import/no-named-as-default */
-/* eslint-disable  import/no-named-as-default-member */
-
 import Phaser from 'phaser';
 
 class Entity extends Phaser.GameObjects.Sprite {
